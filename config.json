@@ -1,0 +1,7 @@
+{
+  "target": {
+    "ip": "localhost",
+    "port": 6969
+  },
+  "proxy_port": 25565
+}
